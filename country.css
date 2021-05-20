@@ -1,0 +1,91 @@
+#header{
+  color:gold;
+  font-weight: bold;
+  text-align: center;
+  text-shadow: 2px 2px;
+}
+body{
+  background-image: url('cloudss.jpeg');
+}
+.mainBox{
+  border: 10px solid #FFCC99;
+  height:700px;
+  width:500px;
+  text-align: center;
+  display: inline-block;
+  margin-left: 450px;
+  background-color: #CCE5FF;
+  border-radius: 25px;
+}
+#city{
+  margin-top: -10px;
+  font-size: 70px;
+  color:#990099;
+  text-shadow: 2px 2px;
+}
+#temp{
+  font-size: 50px;
+  color:#66B2FF;
+  display: inline-block;
+  text-align: center;
+}
+#feelsLike{
+  font-size: 50px;
+  color:#66B2FF;
+}
+#description{
+  margin-top: -15px;
+  font-size: 50px;
+  color:#00CC66;
+}
+input[type="text"]{
+  margin-top: 30px;
+  height: 30px;
+  width: 200px;
+}
+input[type="search"]{
+  margin-top: 30px;
+  height: 30px;
+  width: 100px;
+}
+#sunpic{
+  margin-top: -20px;
+  height:150px;
+  width:150px;
+}
+#high{
+  display: inline-block;
+text-align: center;
+margin-left: 30px;
+}
+#temptext{
+  display:inline-block;
+  margin-left: -50px;
+}
+#lowtemp{
+  display: inline-block;
+  margin-left: 20px;
+}
+#hightemp{
+  display: inline-block;
+  font-size: 20px;
+  color: red;
+
+
+}
+#lowtemp{
+  display: inline-block;
+  font-size: 20px;
+  color:blue;
+}
+#hotpic{
+  display: inline-block;
+  height: 50px;
+  width:50px;
+
+}
+#coldpic{
+  display: inline-block;
+  height: 50px;
+  width:50px;
+}
